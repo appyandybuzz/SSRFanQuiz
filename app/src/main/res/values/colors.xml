@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D029F</color>
+    <color name="colorPrimaryDark">#8F2FFF</color>
+    <color name="colorAccent">#8F2FFF</color>
+
+    <color name="resultBGradient1">#200192</color>
+    <color name="resultBGradient2">#8A09F7</color>
+
+    <color name="bulbIconColor">#FF8A6D</color>
+</resources>
